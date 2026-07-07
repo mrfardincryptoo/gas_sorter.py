@@ -1,2 +1,2 @@
-# gas_sorter.py
-gas_sorter.py
+# Gas Priority Sorter
+An optimization utility script that re-orders arrays of simulated transaction objects based on prioritizing gas fee values for high-speed block ordering.
